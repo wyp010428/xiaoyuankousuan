@@ -25,6 +25,8 @@
 ```
 ["."]
 ```
+
+iPhone用户PK修改的重写规则示例：
 ![IMG_3055(20241010-234413)](https://github.com/user-attachments/assets/8c443a8a-8d45-42ae-bd3d-906b6a29c461)
 
 使用示例：
