@@ -14,9 +14,12 @@
 ^https?:\/\/xyks\.yuanfudao\.com\/leo-game-pk\/android\/math\/pk\/match.+ （Android用户）
 
 用以匹配的Body：
+
 "answer":"[0-9]+","userAnswer":null,"answers":\["[0-9]+"\],"status":0,"script":null,"wrongScript":null,"ruleType":"ARITHMETIC"
 
-替换："answer":"1","userAnswer":null,"answers":["1"],"status":0,"script":null,"wrongScript":null,"ruleType":"ARITHMETIC"
+替换：
+
+"answer":"1","userAnswer":null,"answers":["1"],"status":0,"script":null,"wrongScript":null,"ruleType":"ARITHMETIC"
 
 ![微信图片_20241010175448](https://github.com/user-attachments/assets/c441d403-5406-4280-8a84-2210d4138fde)
 
