@@ -14,13 +14,13 @@
 ^https?:\/\/xyks\.yuanfudao\.com\/leo-game-pk\/android\/math\/pk\/match.+ （Android用户）
 ```
 用以匹配的Body：
-
+```
 \["[0-9]+"\]
-
+```
 替换：
-
+```
 ["1"]
-
+```
 ![IMG_3042(20241010-194931)](https://github.com/user-attachments/assets/f405adbe-6401-4ff5-a308-72acb6fd3646)
 
 
