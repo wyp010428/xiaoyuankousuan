@@ -23,7 +23,7 @@
 ```
 ["."]
 ```
-![IMG_3044(20241010-202737)](https://github.com/user-attachments/assets/4b1db45d-1131-4f87-a0b2-5937ba2b1973)
+![IMG_3055(20241010-234413)](https://github.com/user-attachments/assets/8c443a8a-8d45-42ae-bd3d-906b6a29c461)
 
 使用示例：
 https://b23.tv/TZ7civa
