@@ -19,9 +19,9 @@
 ```
 替换：
 ```
-["1"]
+["."]
 ```
 ![IMG_3044(20241010-202737)](https://github.com/user-attachments/assets/4b1db45d-1131-4f87-a0b2-5937ba2b1973)
 
 使用示例：
-https://www.bilibili.com/video/BV1tC23YKEk6/?spm_id_from=333.999.0.0&vd_source=87515e1e048871f3a938e1a5153d1f81
+https://b23.tv/TZ7civa
