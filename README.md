@@ -15,13 +15,13 @@
 ```
 用以匹配的Body：
 ```
-\["[1234567890<>]+"\]
+\["[0123456789<>]+"\]
 ```
 替换：
 ```
 ["1"]
 ```
-![IMG_3042(20241010-194931)](https://github.com/user-attachments/assets/f405adbe-6401-4ff5-a308-72acb6fd3646)
+![IMG_3043(20241010-201200)](https://github.com/user-attachments/assets/df38405f-9ecc-4250-9070-5cd97e906727)
 
 使用示例：
 https://www.bilibili.com/video/BV1tC23YKEk6/?spm_id_from=333.999.0.0&vd_source=87515e1e048871f3a938e1a5153d1f81
