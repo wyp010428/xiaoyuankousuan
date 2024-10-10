@@ -5,6 +5,7 @@
 这里以Quantumult X为例，其他软件类似：
 1. 新建一个重写规则
 2. 依此填入以下内容：
+
 类型：response-body
 
 用以匹配的URL：
