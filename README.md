@@ -1,4 +1,4 @@
-# 小猿口算0秒十题 已支持全部挑战 2024/10/10 20:30更新
+# 小猿口算0秒十题 已支持全部挑战 2024/10/11 0:58更新
 
 配合连点器可以达到几乎0s
 ![微信图片_20241010175313](https://github.com/user-attachments/assets/afb3d32c-7c43-4e14-af53-ad0200b4e9ac)
@@ -12,12 +12,14 @@
 
 用以匹配的URL：
 ```
-^https?:\/\/xyks\.yuanfudao\.com\/leo-game-pk\/iphone\/math\/pk\/match.+  （iPhone用户）
-^https?:\/\/xyks\.yuanfudao\.com\/leo-game-pk\/android\/math\/pk\/match.+ （Android用户）
+^https?:\/\/xyks\.yuanfudao\.com\/leo-game-pk\/iphone\/math\/pk\/match.+  （iPhone用户 PK）
+^https?:\/\/xyks\.yuanfudao\.com\/leo-math\/iphone\/exams.+               （iPhone用户 练习场）
+^https?:\/\/xyks\.yuanfudao\.com\/leo-game-pk\/android\/math\/pk\/match.+ （Android用户 PK）
+^https?:\/\/xyks\.yuanfudao\.com\/leo-math\/android\/exams.+              （Android用户 练习场）
 ```
 用以匹配的Body：
 ```
-\["[0123456789<>\.\\frac\{\},"]+"\]
+\["[0123456789<>\.\\frac\{\},"=]+"\]
 ```
 替换：
 ```
@@ -27,3 +29,4 @@
 
 使用示例：
 https://b23.tv/TZ7civa
+![IMG_3058(20241011-005444)](https://github.com/user-attachments/assets/10a621f5-815d-4e81-9122-39d766965b87)
