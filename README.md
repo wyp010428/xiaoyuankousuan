@@ -2,6 +2,8 @@
 ![微信图片_20241010175313](https://github.com/user-attachments/assets/afb3d32c-7c43-4e14-af53-ad0200b4e9ac)
 实现原理非常简单，小猿口算在匹配成功时会直接下载所有题目及答案，修改响应体把答案全部改成1即可
 
+#### 注意选择的挑战是【表内乘法】不是比大小
+
 这里以Quantumult X为例，其他软件类似：
 1. 新建一个重写规则
 2. 依此填入以下内容：
@@ -22,8 +24,6 @@
 ["1"]
 ```
 ![IMG_3042(20241010-194931)](https://github.com/user-attachments/assets/f405adbe-6401-4ff5-a308-72acb6fd3646)
-
-##### 注意选择的挑战是【表内乘法】不是比大小
 
 使用示例：
 https://www.bilibili.com/video/BV1tC23YKEk6/?spm_id_from=333.999.0.0&vd_source=87515e1e048871f3a938e1a5153d1f81
