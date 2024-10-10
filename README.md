@@ -23,6 +23,7 @@
 ```
 ![IMG_3042(20241010-194931)](https://github.com/user-attachments/assets/f405adbe-6401-4ff5-a308-72acb6fd3646)
 
+##### 注意选择的挑战是【表内乘法】不是比大小
 
 使用示例：
 https://www.bilibili.com/video/BV1tC23YKEk6/?spm_id_from=333.999.0.0&vd_source=87515e1e048871f3a938e1a5153d1f81
