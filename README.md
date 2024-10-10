@@ -5,16 +5,15 @@
 这里以Quantumult X为例，其他软件类似：
 1. 新建一个重写规则
 2. 依此填入以下内容：
+类型：response-body
 
-  类型：response-body
-  
-  用以匹配的URL：
-                ^https?:\/\/xyks\.yuanfudao\.com\/leo-game-pk\/iphone\/math\/pk\/match.+  （iPhone用户）
-                ^https?:\/\/xyks\.yuanfudao\.com\/leo-game-pk\/android\/math\/pk\/match.+ （Android用户）
-  
-  用以匹配的Body："answer":"[0-9]+","userAnswer":null,"answers":\["[0-9]+"\],"status":0,"script":null,"wrongScript":null,"ruleType":"ARITHMETIC"
-  
-  替换："answer":"1","userAnswer":null,"answers":["1"],"status":0,"script":null,"wrongScript":null,"ruleType":"ARITHMETIC"
+用以匹配的URL：
+^https?:\/\/xyks\.yuanfudao\.com\/leo-game-pk\/iphone\/math\/pk\/match.+  （iPhone用户）
+^https?:\/\/xyks\.yuanfudao\.com\/leo-game-pk\/android\/math\/pk\/match.+ （Android用户）
+
+用以匹配的Body："answer":"[0-9]+","userAnswer":null,"answers":\["[0-9]+"\],"status":0,"script":null,"wrongScript":null,"ruleType":"ARITHMETIC"
+
+替换："answer":"1","userAnswer":null,"answers":["1"],"status":0,"script":null,"wrongScript":null,"ruleType":"ARITHMETIC"
 ![微信图片_20241010175448](https://github.com/user-attachments/assets/c441d403-5406-4280-8a84-2210d4138fde)
 
 使用示例：
