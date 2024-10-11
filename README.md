@@ -16,7 +16,7 @@
 3. 打开重写规则，复制口令粘进去
 4. 打开MITM和重写，完成
 
-口令：改答案口令: SSC#UqEBYriRBy# 复制本段文本并打开Storm Sniffer(http://dcuvu.oukd.cn/c2)
+口令：改答案口令: SSC#HKkQitUrcq# 复制本段文本并打开Storm Sniffer(https://apple.co/3x3FGre)
 ![db1d35938a529a3d53c4e428f16a219](https://github.com/user-attachments/assets/fcd75c46-f530-4c20-a2fa-781afb6dd7f3)
 
 
