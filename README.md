@@ -1,6 +1,7 @@
 # 小猿口算-真正的0.0s 傻瓜教程 2024/10/11 13:38更新
 
-### 使用效果：www.bilibili.com/video/BV1L82VYQEpx 配合连点器可以达到0.0s
+### 使用效果：www.bilibili.com/video/BV1L82VYQEpx 
+### 配合连点器可以达到0.0s：www.bilibili.com/video/BV1fx2mYWE2J
 ### 详细视频教程：www.bilibili.com/video/BV14D2mYTEC9
 ### 目录
 - [Storm Sniffer傻瓜教程-支持20题以上](#storm-sniffer-------20----)
