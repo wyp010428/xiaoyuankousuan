@@ -51,10 +51,10 @@ iPhone用户PK修改的重写规则示例：
 ![IMG_3055(20241010-234413)](https://github.com/user-attachments/assets/8c443a8a-8d45-42ae-bd3d-906b6a29c461)
 
 # 直接修改题目数量的方法
-可以实现，但是不能上传结果，具体修改方法
+练习可以用这个刷0.0s，pk可以实现，但是不能上传结果，具体修改方法
 ```
 用以匹配的body: "questionCnt":\s*\d+,"correctCnt":0,"costTime":0,"questions":\s*\[.*\],
-替换："questionCnt":1,"correctCnt":0,"costTime":0,"questions": [{"id": 1,"content": "9+\\\\square=12","answer": "1","userAnswer": null,"answers": ["1"],"script": null,"wrongScript": null,"status": 0,"errorState": 0,"costTime": 0}],
+替换："questionCnt":1,"correctCnt":0,"costTime":0,"questions": [{"id": 1,"content": "9+\\\\square=12","answer": "1","userAnswer": null,"answers": ["."],"script": null,"wrongScript": null,"status": 0,"errorState": 0,"costTime": 0}],
 ```
 修改后效果
 ![075447f6711ee0296187b3a25a19010](https://github.com/user-attachments/assets/a902a38c-e55c-41c1-9d97-3062770fd733)
