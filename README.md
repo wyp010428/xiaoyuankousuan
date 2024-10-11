@@ -23,8 +23,10 @@
 # 以Quantumult X为例，其他软件类似：
 
 注意Quantumult X的本地重写不支持太大的响应体，所以20题后会失效，可以用Storm Sniffer或者其他软件
-1. 新建一个重写规则
-2. 依此填入以下内容：
+1. 配置MITM证书
+2. 新建一个重写规则
+3. 依此填入以下内容：
+4. 打开MITM、重写、HTTP抓取，还有Quan X代理
 
 类型：response-body
 
