@@ -1,4 +1,4 @@
-# 小猿口算-真正的0.0s 傻瓜教程 2024/10/11 13:38更新
+# 小猿口算-真正的0.0s
 
 ### 使用效果：www.bilibili.com/video/BV1L82VYQEpx 
 ### 配合连点器可以达到0.0s：www.bilibili.com/video/BV1fx2mYWE2J
@@ -12,6 +12,8 @@
 ![屏幕截图 2024-10-11 144803](https://github.com/user-attachments/assets/5ae735ae-330d-41af-a704-f47dbc22ed62)
 
 实现原理非常简单，小猿口算在匹配成功时会直接下载所有题目及答案，修改响应体把答案全部改成小数点【.】即可
+
+pk场数据已经加密了，练习场还可以刷速度
 
 # Storm Sniffer傻瓜教程-支持20题以上
 1. 买月卡或者终身B
