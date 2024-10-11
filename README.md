@@ -7,7 +7,8 @@
 - [直接修改题目数量的方法](#-----------)
 - [PK结果](#-----)
 - 
-![IMG_3075(20241011-140256)](https://github.com/user-attachments/assets/8336562d-438f-4e9c-9dc0-5b70e8929ddc)
+![屏幕截图 2024-10-11 144803](https://github.com/user-attachments/assets/5ae735ae-330d-41af-a704-f47dbc22ed62)
+
 实现原理非常简单，小猿口算在匹配成功时会直接下载所有题目及答案，修改响应体把答案全部改成1即可
 
 # Storm Sniffer傻瓜教程-支持20题以上
