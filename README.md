@@ -4,7 +4,7 @@
 ![微信图片_20241010175313](https://github.com/user-attachments/assets/afb3d32c-7c43-4e14-af53-ad0200b4e9ac)
 实现原理非常简单，小猿口算在匹配成功时会直接下载所有题目及答案，修改响应体把答案全部改成1即可
 
-# Strom Sniffer傻瓜教程-支持20题等
+# Storm Sniffer傻瓜教程-支持20题等
 1. 买季卡或者终身B
 2. 把证书配置了
 3. 打开重写规则，复制口令粘进去
