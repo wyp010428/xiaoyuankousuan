@@ -1,4 +1,4 @@
-# 小猿口算0秒十题 傻瓜教程 2024/10/11 12:20更新
+# 小猿口算0秒十题 傻瓜教程 2024/10/11 13:38更新
 
 ### 使用效果：https://b23.tv/TZ7civa 配合连点器可以达到几乎0s
 ### 目录
@@ -16,7 +16,7 @@
 3. 打开重写规则，复制口令粘进去
 4. 打开MITM和重写，完成
 
-口令：改答案口令: SSC#HKkQitUrcq# 复制本段文本并打开Storm Sniffer(https://apple.co/3x3FGre)
+口令：改答案口令: SSC#yWerXhCWQQ# 复制本段文本并打开Storm Sniffer(http://dcuvh.r6d.cn/62)
 ![db1d35938a529a3d53c4e428f16a219](https://github.com/user-attachments/assets/fcd75c46-f530-4c20-a2fa-781afb6dd7f3)
 
 
