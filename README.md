@@ -1,4 +1,4 @@
-# 小猿口算-真正的0.0s
+# 小猿口算-练习场0.0秒/题-支持PK场
 
 ### 使用效果：www.bilibili.com/video/BV1L82VYQEpx 
 ### 配合连点器可以达到0.0s：www.bilibili.com/video/BV1fx2mYWE2J
