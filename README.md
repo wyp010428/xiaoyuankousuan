@@ -39,6 +39,7 @@ url正则匹配设置为：
 
 卸载并重新安装小猿口算清除数据，保持重写打开并重新启动小猿口算即可
 ![IMG_3106(20241012-183426)](https://github.com/user-attachments/assets/d4c123fd-ee46-49e8-b0c0-d0518033f60d)
+![363F9DD63AF2CB3592F22D14D9CAC35B](https://github.com/user-attachments/assets/605d704c-d741-47b3-8934-1e3eb17f0157)
 
 # 3. 以Quantumult X为例，其他软件类似：
 
