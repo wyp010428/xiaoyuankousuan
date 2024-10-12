@@ -3,6 +3,7 @@
 ### 使用效果：www.bilibili.com/video/BV1L82VYQEpx 
 ### 配合连点器可以达到0.0s：www.bilibili.com/video/BV1fx2mYWE2J
 ### 详细视频教程：www.bilibili.com/video/BV14D2mYTEC9
+### 更新后pk场效果：www.bilibili.com/video/BV1qF2hYTEAu
 ### 目录
 - [1. Storm Sniffer傻瓜教程-练习场刷速度](#1-storm-sniffer-----------)
   * [口令：改答案口令: SSC#yWerXhCWQQ# 复制本段文本并打开Storm Sniffer](#----------ssc-ywerxhcwqq-----------storm-sniffer)
